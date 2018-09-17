@@ -9,5 +9,8 @@
             "email": "rivsen1003@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": { "Rswork\\Component\\Exception\\": "src" }
+    }
 }
