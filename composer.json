@@ -1,0 +1,13 @@
+{
+    "name": "rswork/exception",
+    "description": "shared common exception component between rswork's other projects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rivsen Tan",
+            "email": "rivsen1003@gmail.com"
+        }
+    ],
+    "require": {}
+}
